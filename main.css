@@ -1,0 +1,19 @@
+.imp:after{
+    content:"*";
+    color: red;
+}
+label{
+    font-weight: bold;
+}
+.checked{
+   color: brown;
+   cursor: pointer;
+
+}
+input{
+    cursor: context-menu;
+}
+.check{
+    cursor: pointer;
+
+}
